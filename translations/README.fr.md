@@ -9,7 +9,7 @@
 
 [Read in English](README.md)
 
----
+
 
 ## 👉 À propos de moi
 
@@ -31,7 +31,7 @@ const developer = {
 - 💬 Discutons de : **JavaScript, React, Magie CSS ou Algorithmes Efficaces**
 - 🧙‍♂️ Mantra : **"Le code est une poésie écrite pour les machines mais lue par les humains"**
 
----
+
 
 ## 🛠️ Boîte à outils technique
 
@@ -56,17 +56,7 @@ const developer = {
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
 
-## 📁 Réalisations & Badges
-
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="90" title="Pull Shark">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="90" title="YOLO">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="90" title="Quickdraw">
-</div>
-
----
 
 ## 🌐 Connectez-vous & Suivez-moi
 <div align="center">
@@ -81,7 +71,7 @@ const developer = {
   </a>
 </div>
 
----
+
 
 ## 📌 Focalisation actuelle
 
@@ -97,10 +87,8 @@ const developer = {
 
 </details>
 
----
 
 <div align="center">
   <h4>💭 "La seule façon de faire du bon travail est d'aimer ce que vous faites." - Steve Jobs</h4>
 </div>
 
----
