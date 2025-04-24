@@ -57,14 +57,6 @@ const developer = {
 
 
 
-## 📁 Achievements & Badges
-
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="90" title="Pull Shark">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="90" title="YOLO">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="90" title="Quickdraw">
-</div>
-
 
 
 ## 🌐 Connect & Follow
