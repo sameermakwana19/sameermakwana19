@@ -105,5 +105,5 @@ const developer = {
 
 
 ## 🌐 Translation
-<kbd>[<img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" width="22"> Français](translation/README.fr.md)</kbd>
+<kbd>[<img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" width="22"> Français](translations/README.fr.md)</kbd>
 
